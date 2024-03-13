@@ -1,6 +1,6 @@
 ---
 title: Audioseparation0.1
-emoji: 🔥
+emoji: 🎬
 colorFrom: purple
 colorTo: pink
 sdk: streamlit
